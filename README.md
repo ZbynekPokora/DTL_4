@@ -12,7 +12,7 @@ Network-Based Modeling and Analysis
  Model the healthcare system as a dynamic, weighted network of patient flows between regions. Use graph-based methods to uncover community structures, regional dependencies, and temporal changes in connectivity between healthcare providers and districts.
 
 
-Data: UZIS healthcare data
+Data: 
 The data directory contains two files:
-“UZIS.zip”: containing the origin-destination aggregated numbers of healthcare visits, grouped across healthcare categories and on monthly aggregation.
-“Lau1-current-iz.shp.zip”: shapefiles of origin/destination regions present in the data.
+- “UZIS.zip”: containing the origin-destination aggregated numbers of healthcare visits, grouped across healthcare categories and on monthly aggregation.
+- “Lau1-current-iz.shp.zip”: shapefiles of origin/destination regions present in the data.
